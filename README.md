@@ -7,8 +7,8 @@ It is a repository for porting games to Haiku.
 
 Want to port a game to Haiku?
 =============================
-Ask the administrator. The game that you're porting must be released under the GNU GPL, or other compatible licenses.
+Send me a request telling me about your port. The game that you're porting must be released under the GNU GPL, or other compatible licenses.
 
 Cloning this repository.
 ========================
-Under construction.
+This is currently under construction.
